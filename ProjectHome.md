@@ -1,0 +1,1 @@
+Takes inverted left image, and normal right image, processes and combines into one image for cross-eye viewing.
